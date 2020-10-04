@@ -5,10 +5,10 @@ Percentage of budget spent (total and per individual expense) is calculated and 
 ![Screenshot](Images/Screenshot.png?raw=true "Screen Shot")
 
 ## CSS dynamically changes based on input type chosen (income or expense)
-Incomes show a green style  
-![Screenshot](Images/incCSS.png?raw=true "Screen Shot")
-Expenses show a red style  
-![Screenshot](Images/expCSS.png?raw=true "Screen Shot")
+Incomes show a green style<br />
+![Screenshot](Images/incCSS.png?raw=true "Screen Shot")<br />
+Expenses show a red style<br />
+![Screenshot](Images/expCSS.png?raw=true "Screen Shot")<br />
 
 ## Ability to remove incomes or expenses
 Hovering over an item shows the delete button  
