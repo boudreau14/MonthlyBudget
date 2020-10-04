@@ -1,6 +1,7 @@
 # MonthlyBudget
-A Monthly budget calculator that allows the input of incomes and expenses and calculates the users available budget.
-Percentage of budget spent (total and per individual expense) is calculated and shown.
+A Monthly budget calculator that allows the input of incomes and expenses and calculates the users available budget.<br />
+Percentage of budget spent (total and per individual expense) is calculated and shown.<br />
+View deployed site at: https://boudreau14.github.io/MonthlyBudget/<br />
 
 ![Screenshot](Images/Screenshot.png?raw=true "Screen Shot")
 
