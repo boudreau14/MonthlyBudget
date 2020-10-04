@@ -11,7 +11,7 @@ Expenses show a red style<br />
 ![Screenshot](Images/expCSS.png?raw=true "Screen Shot")<br />
 
 ## Ability to remove incomes or expenses
-Hovering over an item shows the delete button  
-![Screenshot](Images/beforedelete.png?raw=true "Screen Shot")
-Allowing the user to remove items from the budget  
-![Screenshot](Images/afterdelete.png?raw=true "Screen Shot")
+Hovering over an item shows the delete button<br />
+![Screenshot](Images/beforedelete.png?raw=true "Screen Shot")<br />
+Allowing the user to remove items from the budget<br />
+![Screenshot](Images/afterdelete.png?raw=true "Screen Shot")<br />
