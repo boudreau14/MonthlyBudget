@@ -1,4 +1,5 @@
 # MonthlyBudget
-A Monthly budget application that allows the input of incomes and expenses.
+A Monthly budget calculator that allows the input of incomes and expenses and calculates the users available budget.
 
-![Screenshot](Screenshot.png?raw=true "Screen Shot")
+![Screenshot](Images/Screenshot.png?raw=true "Screen Shot")
+
